@@ -1,0 +1,25 @@
+.addjob {
+  width: 100%;
+}
+.content {
+  width: 90%;
+  margin-left: 5%;
+}
+.title {
+  text-align: left;
+}
+.form {
+  width: 100%;
+  display: flex;
+}
+.formInput {
+  width: 66%;
+}
+.formSelect {
+  width: 20%;
+  margin-left: 2% !important;
+  margin-right: 2% !important;
+}
+.formButton {
+  width: 10%;
+}

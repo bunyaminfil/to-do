@@ -1,0 +1,29 @@
+.popover-title {
+  text-align: center;
+}
+.popover-content {
+  width: 400px;
+  height: 250px;
+}
+.job-priority {
+  margin-top: 20px;
+}
+.select {
+  width: 100%;
+}
+.buttons {
+  text-align: center;
+}
+.buttons button {
+  border-radius: 5px;
+  width: 150px;
+  margin: 15px;
+}
+.buttons .cancel {
+  background-color: rgb(190, 188, 188);
+}
+.buttons .save,
+.buttons .approve {
+  background-color: rgba(230, 33, 99, 0.795);
+  color: #fff;
+}
